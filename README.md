@@ -1,9 +1,12 @@
+<div align="center">
 <img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/4f08976d-c13c-42ce-87bd-05c4067b3c18" />
 
 # 🧋 이룸오더 (Irum Order)
 
-서울시립대학교 컴퓨터과학부 2024년 소프트웨어공학 프로젝트로, Software Development Life-Cycle을 기반으로 객체지향 소프트웨어공학 방법론을 적용하여 교내 카페 모바일 주문을 도와주는 모바일 최적화 웹앱 주문 플랫폼
-- 진행 기간: 2024.09. ~ 2024.12.(4개월)
+서울시립대학교 컴퓨터과학부 2024년 소프트웨어공학 프로젝트<br/>
+Software Development Life-Cycle 기반 객체지향 소프트웨어공학 방법론을 적용한 교내 카페 모바일 최적화 웹앱 주문 플랫폼
+
+**진행 기간**: 2024.09. ~ 2024.12. (4개월)
 
 ---
 ## 📋 목차
@@ -311,6 +314,5 @@ IrumOrder/src/main/java
 - [API 문서](artifacts/api_docs.pdf)
 - [Bug List](artifacts/Bug%20List.xlsx)
 - [카카오페이 개발 문서](https://developers.kakaopay.com/)
----
 
 
