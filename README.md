@@ -8,6 +8,7 @@ Software Development Life-Cycle 기반 객체지향 소프트웨어공학 방법
 
 **진행 기간**: 2024.09. ~ 2024.12. (4개월)
 </div>
+
 ---
 ## 📋 목차
 
@@ -147,15 +148,6 @@ Frontend (React) ↔ REST API ↔ Backend (Spring) ↔ MySQL DB
     - 외부 API와 통신, 데이터베이스와 통신합니다.
     - MVC 구조
  
-
----
-
-## Tech Stack
-
-- **FrontEnd**: React.js
-- **BackEnd**: Spring, MySQL
-- **API**: Firebase, KakaoPay
-
 
 ---
 
