@@ -137,16 +137,18 @@ Frontend (React) ↔ REST API ↔ Backend (Spring) ↔ MySQL DB
 
 ### Frontend — Feature-based Directory Structure
 ![Feature-based Structure](./artifacts/Architecture_diagram/High_level_FeatureBased.png)
-    - 사용자의 입력 데이터를 처리하고, REST API를 통해 Backend와 상호작용합니다.
-    - Local Storage를 통해 클라이언트 측 데이터를 관리합니다.
-    - Feature-based Directory Structure
+
+- 사용자의 입력 데이터를 처리하고, REST API를 통해 Backend와 상호작용합니다.
+- Local Storage를 통해 클라이언트 측 데이터를 관리합니다.
+- Feature-based Directory Structure
 
 ### Backend — MVC 구조
 ![MVC Structure](./artifacts/Architecture_diagram/High_level_MVC.png)
-    - Spring Framework 기반으로 구현된 애플리케이션 서버
-    - REST API를 통해 Frontend와 통신하며, 데이터 요청 및 응답을 처리합니다.
-    - 외부 API와 통신, 데이터베이스와 통신합니다.
-    - MVC 구조
+
+- Spring Framework 기반으로 구현된 애플리케이션 서버
+- REST API를 통해 Frontend와 통신하며, 데이터 요청 및 응답을 처리합니다.
+- 외부 API와 통신, 데이터베이스와 통신합니다.
+- MVC 구조
  
 
 ---
