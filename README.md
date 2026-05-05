@@ -274,16 +274,7 @@ IrumOrder/src/main/java
 
 ## 🗄 MySQL DB 구조
 
-| 테이블 | 설명 |
-|--------|------|
-| `user` | 회원 정보 |
-| `store` | 매장 정보 |
-| `category` | 메뉴 카테고리 |
-| `menu` | 메뉴 항목 |
-| `menu_option` | 메뉴 옵션 |
-| `cart` | 장바구니 |
-| `order` | 주문 내역 |
-| `routine` | 주문 루틴 설정 |
+![MySQL DB Structure](./artifacts/Architecture_diagram/DB_Architecture.png)
 
 ---
 
